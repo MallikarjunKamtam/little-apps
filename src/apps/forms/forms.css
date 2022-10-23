@@ -1,0 +1,101 @@
+.discard-save {
+  display: flex;
+  align-items: center;
+}
+
+.add-new-form-init-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #81c6e8;
+  padding: 5px 10px;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
+
+.cross-btn {
+  cursor: pointer;
+}
+
+.input-box {
+  width: 70%;
+  min-width: 200px;
+  height: 35px;
+  border-radius: 4px;
+  padding: 3px;
+}
+
+.yup-err-msg {
+  color: red;
+  font-size: 12px;
+}
+
+.input-box-container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.submit-btn {
+  float: right;
+  width: 70px;
+  height: 30px;
+  background-color: #81c6e8;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.all-text-boxes-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.field-arr-one {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.add-another-field {
+  font-size: 12px;
+  font-weight: 400;
+  color: blue;
+  cursor: pointer;
+}
+
+.input-to-croos-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.overall-fieldarr-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.add-new-btn-ground {
+  width: 75px;
+  height: 35px;
+  text-align: center;
+  background-color: #81c6e8;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-new-btn-ground-container {
+  float: right;
+  margin: 10px;
+}
+
+.all-text-boxes-container-grand {
+  background-color: #eeeeee;
+  border-radius: 8px;
+  padding: 30px;
+}
